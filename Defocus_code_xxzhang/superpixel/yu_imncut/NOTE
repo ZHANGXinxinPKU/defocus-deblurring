@@ -1,0 +1,6 @@
+changed unsigned long to unsigned int in:
+ic.c
+imnb.c (twice)
+csparse.c
+
+seems to work for 64 and 32-bit machines.
